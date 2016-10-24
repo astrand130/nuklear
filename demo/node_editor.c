@@ -2,7 +2,7 @@
 /* This is a simple node editor just to show a simple implementation and that
  * it is possible to achieve it with this library. While all nodes inside this
  * example use a simple color modifier as content you could change them
- * to have your custom content depending on the node time.
+ * to have your custom content depending on the node type. 
  * Biggest difference to most usual implementation is that this example does
  * not have connectors on the right position of the property that it links.
  * This is mainly done out of laziness and could be implemented as well but
